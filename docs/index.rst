@@ -3,7 +3,7 @@
 How to contribute
 -----------------
 
-1. clone the repository: `https://github.com/mamcer/sphinx-docs <https://github.com/mamcer/sphinx-docs>`_
+1. clone the repository: `https://github.com/mamcer/ateam-docs <https://github.com/mamcer/ateam-docs>`_
 2. create a branch from master
 3. add awesome content
 4. request a branch merge to master
