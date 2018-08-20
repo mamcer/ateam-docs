@@ -12,6 +12,8 @@ The screenshots basically show my development process of several side-projects.
 
 The repository contains a fully functional documentation site divided in different sections according to the topics above described. The examples are based in .NET. The initial idea was to extend it to another technologies but it never got that maturity level.
 
+Most of the examples are still current. They target the .NET full framework (this is prior .NET Core RTM). In a quick review SonarQube should be the only outdated content, all the examples should be based in the current recommended option for .NET analysis: SonarScanner for MSBuild.
+
 The area didn't succeed, at least at my expectation level.
 
 ## Install steps
