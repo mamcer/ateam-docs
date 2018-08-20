@@ -32,9 +32,9 @@ Install, build and test host steps for Ubuntu.
 
 ## Screenshots
 
-![screenshot](https://raw.githubusercontent.com/mamcer/ateam-docs/master/doc/screenshot-01.png)
+![screenshot](https://raw.githubusercontent.com/mamcer/ateam-docs/master/screenshots/screenshot-01.png)
 
-![screenshot](https://raw.githubusercontent.com/mamcer/ateam-docs/master/doc/screenshot-02.png)
+![screenshot](https://raw.githubusercontent.com/mamcer/ateam-docs/master/screenshots/screenshot-02.png)
 
 
 
