@@ -42,7 +42,7 @@ Summary of content
 
 ![screenshot](https://raw.githubusercontent.com/mamcer/ateam-docs/master/screenshots/screenshot-02.png)
 
-
+## Image credits
 
 A-Team Image from: [fanart](https://fanart.tv/series/77904/the-a-team/)
 
