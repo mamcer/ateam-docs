@@ -102,7 +102,7 @@ SYNCHRONIZE TWO FOLDERS
 
 .. code-block:: bat
 
-    msdeploy.exe -verb:sync -source:iisApp=C:\root\tmp\eli-coverage -dest:iisApp=c:\inetpub\wwwroot\eli-coverage,computerName=10.28.148.236,username=delnet,password=D4ln4t2015 -allowUntrusted
+    msdeploy.exe -verb:sync -source:iisApp=[source-folder] -dest:iisApp=[destination-folder],computerName=[host-ip],username=[username],password=[password] -allowUntrusted
 
 With MS Deploy Service
 ^^^^^^^^^^^^^^^^^^^^^^
