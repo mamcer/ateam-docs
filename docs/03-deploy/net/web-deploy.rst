@@ -116,7 +116,7 @@ Service Deploy
 
 .. code-block:: bat
 
-    msdeploy.exe -verb:sync -preSync:runCommand="C:\service.uninstall.cmd",waitInterval=30000 -source:dirPath="C:\source\bin\Release" -dest:dirPath='C:\inetpub\wwwroot\service-folder',computerName=https://host:port/msdeploy.axd?site=ServiceSiteName,username=user,password=password,authType=basic -allowUntrusted -postSync:runCommand="C:\install.cmd",waitInterval=30000
+    msdeploy.exe -verb:sync -preSync:runCommand="C:\service.uninstall.cmd",waitInterval=30000 -source:dirPath="C:\source\bin\Release" -dest:dirPath='C:\inetpub\wwwroot\service-folder',computerName=https://host:port/msdeploy.axd?site=ServiceSiteName,username=[user],password=[password],authType=basic -allowUntrusted -postSync:runCommand="C:\install.cmd",waitInterval=30000
 
 In order to use msdeploy to sync two folders and run pre and post sync script you must create a WebApplication on the destination server IIS and configure the folder of the application as the dest:dirPath of msdeploy
 
