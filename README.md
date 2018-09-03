@@ -2,6 +2,8 @@
 
 A [Sphinx](http://www.sphinx-doc.org/en/master/) based documentation site ready to be included in a collaboratively continuous delivery process.
 
+> More details about why I published this project in [this blog post](https://mamcer.github.io/2018-09-02-i-cleaned-up-my-virtual-basement/)
+
 ## Description
 
 The goal of this project was to create an Architecture Team area (ATeam, I was a little fan of the '80 TV Serie). Initially focused in the best development practices: Continuous Integration, Continuous Delivery, Continuous Inspection and Unit Testing.  
